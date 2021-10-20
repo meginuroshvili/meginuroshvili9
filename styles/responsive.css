@@ -1,0 +1,127 @@
+@media(max-width: 1094px) {
+    .bg-image {
+        height: auto;
+    }
+    .burger {
+        display: block;
+        margin-right: 35px;
+    }
+    .navi {
+        display: none;
+    }
+    .section1 {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        height: auto;
+        margin-top: 40px;
+    }
+    
+    .section-bg {
+        /* height: auto; */
+        margin-top: 40px;
+    }
+    .right-block {
+        height: auto;
+        margin-top: 40px;
+    }
+}
+@media(max-width: 1040px) {
+    .box-wraper {
+        height: auto;
+    }
+    .box {
+        width: 35%;
+        margin: 0 auto;
+    }
+    .box:nth-child(3) {
+        margin-top: 25px;
+    }
+    .box:nth-child(4) {
+        margin-top: 25px;
+    }
+    .container {
+        height: auto;
+    }
+    .section-bg {
+        height: auto;
+        padding-bottom: 40px;
+    }
+   .bg-image {
+       padding-left: 100px;
+   }
+}
+@media(max-width: 650px) {
+    .right-block {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+    .image1 {
+        margin-bottom: 40px;
+    }
+    .image2 {
+        margin: 0 auto;
+    }
+    .left-block {
+        height: auto;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        text-align: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+}
+@media(max-width: 560px) {
+    .box-wraper {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+    .box:nth-child(1) {
+        margin-bottom: 25px;
+    }
+    .hdr8 {
+        text-align: center;
+        font-size: 20px;
+        margin: 0 auto;
+        padding-bottom: 30px;
+        height: auto;
+    }
+    .hdr9 {
+        width: 100px;
+        font-size: 12px;
+    }
+    .text {
+        width: 100px;
+    }
+    .hdr3 {
+        display: inline-block;
+    }
+    .block {
+        display: inline-block;
+    }
+}
+@media(max-width: 360px) {
+    .hdr4 {
+        height: auto;
+        margin-bottom: 40px;
+    }
+    .hdr3 {
+        display: inline-block;
+    }
+    .block {
+        display: inline-block;
+    }
+}
