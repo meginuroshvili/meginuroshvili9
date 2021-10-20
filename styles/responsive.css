@@ -99,6 +99,10 @@
             -ms-flex-align: center;
                 align-items: center;
     }
+    .box {
+        width: 70%;
+        margin: 0 auto;
+    }
 }
 @media(max-width: 560px) {
     .box-wraper {
