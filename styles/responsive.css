@@ -112,6 +112,10 @@
     .block {
         display: inline-block;
     }
+    .hdr4 {
+        height: auto;
+        margin-bottom: 40px;
+    }
 }
 @media(max-width: 360px) {
     .hdr4 {
