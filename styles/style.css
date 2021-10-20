@@ -112,6 +112,7 @@
     max-width: 1500px;
     width: 100%;
     height: 661px;
+    margin: 0 auto;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -124,7 +125,7 @@
 .left-block {
     max-width: 444px;
     width: 100%;
-    height: 450px;
+    height: 440px;
 }
 .hdr3 {
     width: 140px;
@@ -170,7 +171,7 @@
 .right-block {
     max-width: 650px;
     width: 100%;
-    height: 461px;
+    height: 520px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -199,7 +200,7 @@
     height: 260px;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 /* section 2 styles */
 .container {
