@@ -4,7 +4,7 @@
     }
     .burger {
         display: block;
-        margin-right: 35px;
+        /* margin-right: 35px; */
     }
     .navi {
         display: none;
@@ -47,9 +47,6 @@
         height: auto;
         padding-bottom: 40px;
     }
-   .bg-image {
-       padding-left: 100px;
-   }
    .block-container {
        height: auto;
        display: -webkit-box;
@@ -102,6 +99,9 @@
     .box {
         width: 70%;
         margin: 0 auto;
+    }
+    .header {
+        width: 90%;
     }
 }
 @media(max-width: 560px) {
