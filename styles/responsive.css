@@ -51,6 +51,9 @@
    .bg-image {
        padding-left: 100px;
    }
+   .block-container {
+       height: auto;
+   }
 }
 @media(max-width: 650px) {
     .right-block {
